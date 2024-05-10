@@ -4,3 +4,5 @@ This codebase is in utilized in the article Driver Activity Classification Using
 (B) Combine the generated embeddings to one .npy file.
 (C) Load the .npy file and train a network on it.
 (D) Apply filtering to smoothen the results, given the sequential nature of videos.
+
+The generated embeddings from stage A can be found at https://www.kaggle.com/datasets/mathiasviborg/multiview-CLIP-generated-embeddings/
