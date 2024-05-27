@@ -1,6 +1,6 @@
 # Driver Activity Classification Using Vision-Language Models
 
-This codebase supports the research presented in the paper "Driver Activity Classification Using Generalizable Representations from Vision-Language Models." The processes described here involve generating, combining, and utilizing CLIP embeddings for classifying driver activities based on video data.
+This codebase supports the work presented in the paper "Driver Activity Classification Using Generalizable Representations from Vision-Language Models." The processes described here involve generating, combining, and utilizing CLIP embeddings for classifying driver activities based on video data.
 
 ## Overview
 
